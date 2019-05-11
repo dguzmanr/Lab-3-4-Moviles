@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_ofertaAcademica"
+            android:icon="@android:drawable/ic_menu_sort_by_size"
+            android:title="Oferta Academica" />
+        <item
+            android:id="@+id/nav_matricula"
+            android:icon="@android:drawable/ic_menu_sort_by_size"
+            android:title="Matricula" />
+    </group>
+
+    <item android:title="Mantenimientos">
+        <menu>
+            <item
+                android:id="@+id/nav_carreras"
+                android:icon="@android:drawable/ic_menu_sort_by_size"
+                android:title="Carreras" />
+            <item
+                android:id="@+id/nav_ciclos"
+                android:icon="@android:drawable/ic_menu_sort_by_size"
+                android:title="Ciclos" />
+            <item
+                android:id="@+id/nav_cursos"
+                android:icon="@android:drawable/ic_menu_sort_by_size"
+                android:title="Cursos" />
+            <item
+                android:id="@+id/nav_profsores"
+                android:icon="@android:drawable/ic_menu_sort_by_size"
+                android:title="Profesores" />
+            <item
+                android:id="@+id/nav_grupos"
+                android:icon="@android:drawable/ic_menu_sort_by_size"
+                android:title="Grupos" />
+            <item
+                android:id="@+id/nav_alumnos"
+                android:icon="@android:drawable/ic_menu_sort_by_size"
+                android:title="Alumnos" />
+            <item
+                android:id="@+id/nav_salir"
+                android:icon="@android:drawable/ic_lock_power_off"
+                android:title="Salir" />
+        </menu>
+    </item>
+
+</menu>

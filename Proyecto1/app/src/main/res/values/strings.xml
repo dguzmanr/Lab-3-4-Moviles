@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Laboratorio</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_main">Menu Principal</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_adm_profesor">AdmProfesorActivity</string>
+    <string name="edit">Editar</string>
+    <string name="delete">Eliminar</string>
+    <string name="cedula_Add_Upd_Prof">Cedula</string>
+    <string name="Add_Upd_Nombre_Prof">Profesor</string>
+    <string name="nombre_Add_Upd_Prof">Nombre</string>
+    <string name="emailAddUpdProf">Email</string>
+    <string name="telefonoAddUpdProf">Telefono</string>
+    <string name="action_search" />
+    <string name="codigo_Add_Upd_Ciclo">Codigo</string>
+    <string name="estado_Add_Upd_Ciclo">Estado</string>
+    <string name="fechaI_Add_Upd_Ciclo">Fecha Inicio</string>
+    <string name="fechaF_Add_Upd_Ciclo">Fecha Final</string>
+    <string name="numero_Add_Upd_Ciclo">Numero</string>
+    <string name="ano_Add_Upd_Ciclo">Año</string>
+    <string name="codigo_Add_Upd_Carrera">Codigo</string>
+    <string name="titulo_Add_Upd_Carrera">Titulo</string>
+    <string name="txtViewCarrera">Carrera</string>
+    <string name="txtViewCiclo">Ciclos</string>
+    <string name="nombre_Add_Upd_Curso">Nombre</string>
+    <string name="creditos_Add_Upd_Curso" />
+    <string name="credito_Add_Upd_Curso">Creditos</string>
+    <string name="horas_Add_Upd_Curso" />
+    <string name="codigo_Add_Upd_Curso">Codigo</string>
+    <string name="horas_Add_Update_Curso">Horas</string>
+    <string name="txtViewCiclo2">Ciclo</string>
+    <string name="codigo_Add_Upd_Grupo">Codigo</string>
+    <string name="txtViewCurso">Curso</string>
+    <string name="txtViewProfesor">Profesor</string>
+    <string name="horario_Add_Ups_Horario">Horario</string>
+    <string name="cedula_Add_Upd_Alumno">Cedula</string>
+    <string name="nombre_Add_Upd_Alumno">Nombre</string>
+    <string name="telefono_Add_Upd_Alumno">Telefono</string>
+    <string name="email_Add_Upd_Alumno">Email</string>
+    <string name="fechaNac_Add_Upd_Alumno">Fecha de Nacimiento</string>
+</resources>
